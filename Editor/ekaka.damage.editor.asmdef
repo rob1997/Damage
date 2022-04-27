@@ -1,0 +1,17 @@
+{
+    "name": "ekaka.damage.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d959c1011e3c2964393f48bb9bddc50a",
+        "GUID:3be229e312724024eabae057db50ba7f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

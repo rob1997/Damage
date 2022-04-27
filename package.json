@@ -1,0 +1,16 @@
+{
+  "name": "com.ekaka.damage",
+  "displayName": "Damage",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Damage Library.",
+  "keywords": [
+    "damage",
+    "basic"
+  ],
+  "category": "Unity",
+  "dependencies": {
+    "com.ekaka.core": "0.0.1",
+    "com.ekaka.locomotion": "0.0.1"
+  }
+}
